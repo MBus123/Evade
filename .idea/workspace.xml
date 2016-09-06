@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96f8a41c-43d2-498a-8de9-7ed40493b00c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Evade/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Evade/app/src/main/java/com/paulwirdmillionaer/evade/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/paulwirdmillionaer/evade/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/paulwirdmillionaer/evade/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/paulwirdmillionaer/evade/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/paulwirdmillionaer/evade/MainActivity.java" />
     </list>
     <ignored path="Evade.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/paulwirdmillionaer/evade/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.41063347">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -2028,7 +2026,13 @@
       <option name="project" value="LOCAL" />
       <updated>1473171393198</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&#10;s">
+      <created>1473171624507</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1473171624507</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2081,7 +2085,9 @@
     <MESSAGE value="asdfghjk" />
     <MESSAGE value="&#10;jj" />
     <MESSAGE value="fgxdh" />
-    <option name="LAST_COMMIT_MESSAGE" value="fgxdh" />
+    <MESSAGE value="&#10;" />
+    <MESSAGE value="&#10;s" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;s" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2107,7 +2113,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/paulwirdmillionaer/evade/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41063347">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
           <folding />
         </state>
       </provider>
