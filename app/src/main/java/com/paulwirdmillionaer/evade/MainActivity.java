@@ -30,4 +30,7 @@ public class MainActivity extends AppCompatActivity {
     public void setHelp(View view){
         setContentView(R.layout.help);
     }
+    public void setMainMenu(View view){
+        setContentView(R.layout.activity_main);
+    }
 }
