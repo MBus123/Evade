@@ -16,7 +16,7 @@
         android:id="@+id/button"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:onClick="f" />
+        android:onClick="setGame" />
 
     <Button
         android:layout_width="wrap_content"
@@ -24,7 +24,8 @@
         android:text="New Button"
         android:id="@+id/button2"
         android:layout_below="@+id/button"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="setRanks" />
 
     <Button
         android:layout_width="wrap_content"
@@ -33,7 +34,8 @@
         android:id="@+id/button3"
         android:layout_below="@+id/button2"
         android:layout_alignLeft="@+id/button2"
-        android:layout_alignStart="@+id/button2" />
+        android:layout_alignStart="@+id/button2"
+        android:onClick="setAboutUs" />
 
     <Button
         android:layout_width="wrap_content"
@@ -41,7 +43,8 @@
         android:text="New Button"
         android:id="@+id/button4"
         android:layout_below="@+id/button3"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="setHelp" />
 
     <Button
         android:layout_width="wrap_content"
@@ -49,5 +52,6 @@
         android:text="New Button"
         android:id="@+id/button5"
         android:layout_below="@+id/button4"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="setOptions" />
 </RelativeLayout>

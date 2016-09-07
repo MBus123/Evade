@@ -15,4 +15,19 @@ public class MainActivity extends AppCompatActivity {
         int i = 5/0;
 
     }
+    public void setOptions(View view){
+        setContentView(R.layout.options);
+    }
+    public void setGame(View view){
+        setContentView(R.layout.game);
+    }
+    public void setRanks(View view){
+        setContentView(R.layout.ranks);
+    }
+    public void setAboutUs(View view){
+        setContentView(R.layout.about_us);
+    }
+    public void setHelp(View view){
+        setContentView(R.layout.help);
+    }
 }
