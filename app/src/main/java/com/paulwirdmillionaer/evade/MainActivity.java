@@ -2,6 +2,7 @@ package com.paulwirdmillionaer.evade;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -10,5 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-//ich bin numero uno nicht numero dos
+    public void f(View View){
+        int i = 5/0;
+
+    }
 }
